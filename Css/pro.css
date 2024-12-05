@@ -1,0 +1,86 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  height: 109vh;
+  background-color: rgb(192, 70, 90);
+}
+.boo {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.main {
+  width: 900px;
+  height: 50%;
+  margin-top: 40px;
+  /* background-color: black; */
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: center;
+  /* gap: 10px; */
+}
+.main ul {
+  display: flex;
+  /* flex-direction: row; */
+}
+.main ul li {
+  list-style-type: none;
+}
+.main ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding-left: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.main ul li a:hover {
+  color: rgb(200, 202, 43);
+  /* text-decoration: underline; */
+}
+.logo {
+  width: 15%;
+  height: 100%;
+
+  margin-left: 5%;
+  background-image: url(/img/photo_2024-11-06_14-51-06-removebg-preview.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about {
+  width: 20%;
+  height: 5%;
+  /* background-color: white; */
+  margin: 6px;
+}
+.about h1 {
+  width: 300%;
+  height: 40px;
+  font-size: 35px;
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  text-decoration: underline;
+}
+
+.poo {
+  width: 408%;
+  height: 80vh;
+  background-color: rgb(192, 70, 90);
+  margin-left: 50%;
+  background-image: url(/img/Screenshot\ from\ 2024-11-28\ 08-35-40.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin-bottom: 30px;
+}
