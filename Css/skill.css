@@ -101,43 +101,43 @@
   margin-top: 10px;
 }
 .photo {
-  background-image: url(/img/html.png);
+  background-image: url(../img/html.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .photo1 {
-  background-image: url(/img/css.png);
+  background-image: url(../img/css.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .photo2 {
-  background-image: url(/img/js.png);
+  background-image: url(../img/js.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .photo3 {
-  background-image: url(/img/figma.png);
+  background-image: url(../img/figma.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .photo4 {
-  background-image: url(/img/react.png);
+  background-image: url(../img/react.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .photo5 {
-  background-image: url(/img/simplon.png);
+  background-image: url(../img/simplon.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .photo6 {
-  background-image: url(/img/trello.png);
+  background-image: url(../img/trello.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;

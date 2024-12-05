@@ -34,7 +34,7 @@
   padding-top: 30px;
   top: 3px;
   left: 87px;
-  background-image: url(/img/photo_2024-11-27_13-40-40.jpg);
+  background-image: url(../img/photo_2024-11-27_13-40-40.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -81,7 +81,7 @@
   flex: 2;
   height: 100%;
   background-color: rgb(255, 196, 250);
-  background-image: url(/img/photo_2024-11-27_09-51-45.jpg);
+  background-image: url(../img/photo_2024-11-27_09-51-45.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
