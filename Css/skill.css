@@ -100,7 +100,7 @@
   margin-top: 10px;
 }
 .photo {
-  background-image: url(/img/html.png);
+  background-image: url(../img/html.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
