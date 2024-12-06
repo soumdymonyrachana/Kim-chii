@@ -52,7 +52,7 @@
   width: 15%;
   height: 100%;
   margin-left: 5%;
-  background-image: url(/img/photo_2024-11-06_14-51-06-removebg-preview.png);
+  background-image: url(../img/logo.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -124,19 +124,17 @@
   background-size: contain;
 }
 .photo4 {
-  background-image: url(/img/react.png);
-  background-position: center;
-  background-repeat: no-repeat;
+  background-image: url(../img/react.png);
   background-size: cover;
 }
 .photo5 {
-  background-image: url(/img/simplon.png);
+  background-image: url(../img/simplon.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
 }
 .photo6 {
-  background-image: url(/img/trello.png);
+  background-image: url(../img/trello.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
